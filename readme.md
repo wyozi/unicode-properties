@@ -6,6 +6,7 @@ properties for all code points into just 12KB.
 ## Fork changes
 
 - Trie data parsed as JSON in order to run it both on node and browser easily
+- Written in ES6
 - Build with rollup
 
 ## Usage
