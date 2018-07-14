@@ -1,7 +1,12 @@
 # unicode-properties
 
-Provides fast access to unicode character properties. Uses [unicode-trie](https://github.com/devongovett/unicode-trie) to compress the 
+Provides fast access to unicode character properties. Uses [unicode-trie](https://github.com/devongovett/unicode-trie) to compress the
 properties for all code points into just 12KB.
+
+## Fork changes
+
+- Trie data parsed as JSON in order to run it both on node and browser easily
+- Build with rollup
 
 ## Usage
 
