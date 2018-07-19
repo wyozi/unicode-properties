@@ -1,6 +1,6 @@
 {
   "name": "@react-pdf/unicode-properties",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Provides fast access to unicode character properties",
   "main": "dist/unicode-properties.cjs.js",
   "module": "dist/unicode-properties.es.js",
