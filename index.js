@@ -154,3 +154,20 @@ export const isMark = (codePoint) => {
     category === 'Mc'
   );
 };
+
+export default {
+  getCategory,
+  getCombiningClass,
+  getScript,
+  getEastAsianWidth,
+  getNumericValue,
+  isAlphabetic,
+  isDigit,
+  isPunctuation,
+  isLowerCase,
+  isUpperCase,
+  isTitleCase,
+  isWhiteSpace,
+  isBaseForm,
+  isMark
+}
