@@ -3,7 +3,7 @@
   "version": "2.2.0",
   "description": "Provides fast access to unicode character properties",
   "main": "dist/unicode-properties.cjs.js",
-  "module": "dist/unicode-properties.es.js",
+  "module": "dist/unicode-properties.esm.js",
   "directories": {
     "test": "test"
   },
